@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of Coll. Okey left at his dying hour, to the Presbyterian congregations, at St. Sepulchres, Christs-Church, Alderman-Bury, and other parts of the city of London : as also, his desires to the Congregational churches of Dr. Homes, Mr. Griffith, Mr. Jessie, and the rest ...</title>
+            <author>Okey, John, d. 1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53254</idno>
+            <idno type="STC">Wing O195</idno>
+            <idno type="STC">ESTC R10351</idno>
+            <idno type="EEBO-CITATION">12999527</idno>
+            <idno type="OCLC">ocm 12999527</idno>
+            <idno type="VID">96459</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53254)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96459)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 393:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of Coll. Okey left at his dying hour, to the Presbyterian congregations, at St. Sepulchres, Christs-Church, Alderman-Bury, and other parts of the city of London : as also, his desires to the Congregational churches of Dr. Homes, Mr. Griffith, Mr. Jessie, and the rest ...</title>
+                  <author>Okey, John, d. 1662.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Williamson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Last words.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96459:1" rendition="simple:additions"/>
+            <p>THE DECLARATION OF Coll. Okey.</p>
+            <p>Left at his dying hour, to the Preſ<g ref="char:EOLhyphen"/>byterian Congregations, at St <hi>S<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ulch<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, Chriſts-Church, Alderman-Bury,</hi> and other parts of the City of <hi>London.</hi>
+            </p>
+            <p>
+               <hi>AS ALSO,</hi> His Deſires to the Congregational Churches of Dr. <hi>Homes,</hi> Mr. <hi>Gr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffith,</hi> Mr. <hi>J<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſ e,</hi> and the reſt.</p>
+            <p>And Likewiſe, To all other His Maj<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtie; Liege People.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Williamſon.</hi> 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="deathbed_speech">
+            <pb facs="tcp:96459:2"/>
+            <pb n="1" facs="tcp:96459:2"/>
+            <head>The Declaration of Collonel Okey, Left at his dying hour, to the Presbyterian Congregations, at St. Sepulchres, Chriſt-Church, Alderman-Bury <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">G</seg>Ods Mercy, is Gods meer Good-will, and ready affection to forgive a penitent ſinner, notwithſtanding all his ſinnes, and ill deſerts, and is nothing elſe but his Eſſence, which is One, and by which he is wiſe, juſt, and merciful altogether. He then that will be a ſearcher of his Mercy, ſhall be overwhelm<g ref="char:EOLhyphen"/>ed with his Glory: Now all his Mercy proceedeth from his free love towards us; ſo the duty of people towards their Paſtors, is, to ſubject themſelves to them, to pray for them, to obey them, and to ſtand by, and for them in times of danger; for as Collonel <hi>Okey</hi> declared a little before he came out of the Tower; That Bread and Cheeſe with the Goſpel was good cheer; ſo he likewiſe deſired, That all people might
+<pb n="3" facs="tcp:96459:3"/>
+conform themſelves to Magiſtrates and Miniſtry; and that the Goſpel of our Lord and Saviour Jeſus Chriſt might have a free courſe in theſe Nations, and be glorified by the lives of all true Subjects; And that, ſince it hath pleaſed the Lord, through a great hand of providence, miraculouſly to reſtore and ſet upon the Throne, the perſon of King <hi>CHARLES,</hi> His ſole deſire was, that as His Majeſty rules from God, ſo he might rule for God, and hereafter gloriouſly to Reign for ever; deſiring that the Nations might make a right improvement of the Mercy ſo greatly deſired, and walk in all holineſs anſwerable thereunto. De<g ref="char:EOLhyphen"/>claring further, that he humbly craved this as the boon of a dying man, that as they had received a mercy ſo exceeding great, ſo they would walk wor<g ref="char:EOLhyphen"/>thy of it, in a fruitful improvement, earneſtly craving that all Gentlemen and others, would pray more, and ſwear leſs.</p>
+            <p>And as <hi>England</hi> hath had more honour then any other Nation, ſo he deſired, that Peace and Plenty might abound, and that every man might ſtudy in his <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ce, <hi>To Fear God, and Honour the King,</hi> and to walk in ſome meaſure anſwerable to thoſe mercies they now enjoy, and worthy of the Goſpel; that Righ<g ref="char:EOLhyphen"/>teouſneſs and Peace might flouriſh in the middeſt of them. He further declared, That he had nothing to his Brethren both of the publike and private Congre<g ref="char:EOLhyphen"/>ga<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>io<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, but that they would wait in their places, and ſee the ſalvation of God, rather them deliver them<g ref="char:EOLhyphen"/>ſelves by any indirect means; And that his hearty de<g ref="char:EOLhyphen"/>ſire was, that Juſtice and Judgment might run through the ſtreets with a mighty ſtream: And that God
+<pb n="3" facs="tcp:96459:3"/>
+would ſcatter them that delight in War. Thus ha<g ref="char:EOLhyphen"/>ving given you a brief Abſtract of his Declaration, it is very ſuitable to remark his moſt Chriſtian-like Prayer at the place of Execution; which was as followeth.</p>
+         </div>
+         <div type="prayer">
+            <head>Collonel OKEYS Prayer.</head>
+            <p>MOſt Holy, Glorious, and Eternal Lord God, who art the bleſſed Maker of all things, who art from everlaſting to ever<g ref="char:EOLhyphen"/>laſting, bleſſed for evermore: Thou art worthy to be praiſed from the riſing of the Sun to the going down thereof: Thou art cloathed with Honour and Majeſty as with a Garment: Thou art the Foun<g ref="char:EOLhyphen"/>tain of all good the W<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll-ſpring of Life and Hap<g ref="char:EOLhyphen"/>pineſs. We bleſs thy Name that thou haſt been pleaſed <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e us this opportunity, once more to poyr out our ſouls before thee, before we go hence and be no more <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <g ref="char:punc">▪</g> For Chr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt his ſake (thou that <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> put a <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> our <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nd<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) give us hearts to <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> us to powr out our ſouls <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>nne: Draw <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gh to us, that we m<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>e. O Lord, we pray thee for <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> give us the ſpirit of Wiſdome, Vn<g ref="char:EOLhyphen"/>derſtanding and Knowledge, wher by we may be enabled to come to thee: In the Name of Ieſus
+<pb n="4" facs="tcp:96459:4"/>
+Chriſt, we beg a ſupply of all our wants, humbly beſeeching thee for his ſake to ſhew mercy to us: Do not remember us what we have done againſt thee: We pray thee for Ieſus Chriſt his ſake blot out our iniquities, let none of our nakedneſs appear; cover us with the Robes of Righteouſneſs; ſpeak peace to our ſouls. O ſeal to us the aſſurance of the par<g ref="char:EOLhyphen"/>don of all our ſins; O ſeal to us the aſſurance that thou loveſt us, and then it ſhall go well with us. Powr upon us thy holy Spirit, that he may teach us how to pray acceptably. Let us ſee our Names written in the Lambs Book of Life: O waſh us in his Blood, which is able to take away all our ſins, of what nature or kinde ſoever. O Lord we beſeech thee receive us into thy everlaſting Arms of Mer<g ref="char:EOLhyphen"/>cie. O that thou wouldeſt let us ſee by the Eye of Faith Heaven opened, and the Lord upon His Throne, and Ieſus Chriſt at thy right hand, and his holy Angels ready to receive our ſouls. We be<g ref="char:EOLhyphen"/>ſeech thee be with us, it is but a little time that we are to be here O leave us not ſhew us mercy onely in and upon the accompt of Ieſus Chriſt. With us b<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> thine all the World over, think upon theſe Nations of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> O that that they may live in thy ſight, that <hi>England</hi> may be a happie, peaceable, and quiet Nation give the N<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tion of <hi>England</hi> a heart to walk anſwerable to the Goſpel which they have ſo long enjoyed, that it may be a Nation fruitful in all good works, and more zealous then ever it hath been yet; remove the judgements felt prevent the judgements feared. To this end, We beſeech thee bleſſe Him whom
+<pb n="5" facs="tcp:96459:4"/>
+thou haſt ſet over us, We begg that he may live in thy ſight, and Reign here for thee, and Reign hereafter with thee: O Lord make Him a Friend to thy Friends, and let Him ſee that His Intereſt lyeth there. Bleſſe the Great Council of the Land, and do thou Lord guide them and direct them, that they may do nothing againſt thy Truth. The Lord bleſſe the faithful Miniſters of the Word, O that thou wouldeſt be pleaſed to double thy Ho<g ref="char:EOLhyphen"/>ly Spirit upon them, and let not thy Iudgement come upon this Nation, that the Godly faithful Miniſters ſhould be driven or removed out of it: O do not bring a Famine of thy Word, whatever Iudgement thou bringeſt upon this Nation. We humbly begg that Poperie may not return hither again. We likewiſe begg for thy Names ſake, that thou wouldeſt look in mercy upon this great Citie, and as thou haſt made them famous for Re<g ref="char:EOLhyphen"/>ligion, and owning the Profeſſors thereof. Lord grant that they may not decline, but increaſe more and more therein: The Lord give them the bleſ<g ref="char:EOLhyphen"/>ſings of the Right Hand and of the Left, that they may dwell together in Love, Vnitie and Peace. The Lord look upon any that is near and dear to us, our dear Relations, we leave them with thee, Lord do thou take care of them, and pro<g ref="char:EOLhyphen"/>vide for them, according to that good promiſe which thou haſt made.</p>
+            <p>Now we beſeech thee Lord accept of us and our Services, pardon the ſins of our Holy things, our wandring and ſtarting aſide from thee: Accept
+<pb n="6" facs="tcp:96459:5"/>
+of us, and do us good, and receive us into the Arms of thy Mercie. This, and what ever elſe thou ſeeſt in thy Wiſdom to be good for us, we begg in the Name and for the ſake of Ieſus Chriſt, to whom be Ho<g ref="char:EOLhyphen"/>nour and Glory, and Praiſe, both now and for ever<g ref="char:EOLhyphen"/>more.</p>
+            <closer>AMEN.</closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
